@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/helloheroku/static/css/main.79ed88ca.chunk.css",
+    "main.js": "/helloheroku/static/js/main.5e401bb4.chunk.js",
+    "main.js.map": "/helloheroku/static/js/main.5e401bb4.chunk.js.map",
+    "runtime-main.js": "/helloheroku/static/js/runtime-main.54756f11.js",
+    "runtime-main.js.map": "/helloheroku/static/js/runtime-main.54756f11.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/helloheroku/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.422ee966.chunk.js": "/helloheroku/static/js/2.422ee966.chunk.js",
+    "static/js/2.422ee966.chunk.js.map": "/helloheroku/static/js/2.422ee966.chunk.js.map",
+    "index.html": "/helloheroku/index.html",
+    "precache-manifest.d7eeacf154f7b421398a25984bfdc24b.js": "/helloheroku/precache-manifest.d7eeacf154f7b421398a25984bfdc24b.js",
+    "service-worker.js": "/helloheroku/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/helloheroku/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.79ed88ca.chunk.css.map": "/helloheroku/static/css/main.79ed88ca.chunk.css.map",
+    "static/js/2.422ee966.chunk.js.LICENSE.txt": "/helloheroku/static/js/2.422ee966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54756f11.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.422ee966.chunk.js",
+    "static/css/main.79ed88ca.chunk.css",
+    "static/js/main.5e401bb4.chunk.js"
+  ]
+}
